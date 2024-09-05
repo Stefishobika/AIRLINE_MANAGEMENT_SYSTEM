@@ -1,7 +1,4 @@
 
-#PROJECT NAME: AIRLINE MANAGEMENT
-#MADE BY: STEFI SHOBIKA SUKUMAR
-
 import mysql.connector as ms
 db=ms.connect(host="localhost",user="root",password="stefi",database="airline_management_system")
 a=db.cursor()
