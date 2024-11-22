@@ -1,2 +1,1 @@
-# AIRLINE_MANAGEMENT_SYSTEM
-The aim of this code is to simplify work by providing flight information when the flight number is given by the user. The system gives flight information like flight number, name, model variant, arrival time, departure time, and status. In this code PYTHON is the FRONT END and MYSQL is the BACK END.
+The purpose of this project is to simplify the process of obtaining flight information by allowing users to input a flight number. The system will then provide key details such as the flight number, airline name, aircraft model, arrival time, departure time, and current status. This project uses Python for the front end and MySQL for the back end.
